@@ -750,3 +750,17 @@ right: 5%;
   max-width: 500px;
   margin: 0 auto;
 }
+
+/* Feature block */
+
+.feature {
+  gap: 4rem 2rem;
+  margin: 12rem 0;
+}
+.feature__heading {
+  margin: 1rem 0;
+}
+
+.feature__image {
+  width: 100%;
+}
